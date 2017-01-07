@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Mapas BsAs</string>
+    <string name="title_activity_maps">Soy el Mapa</string>
+    <string name="seleccione_foto">Toque las fotos para ver los mapas</string>
+    <string name="boca">La Boca</string>
+    <string name="jardin">Jardín japones</string>
+    <string name="planetario">Planetario</string>
+    <string name="teatro">Teatro Colón</string>
+    <string name="pLatitud">latitud</string>
+    <string name="pLongitud">longitud</string>
+    <string name="pNombre">nombre</string>
+    <string name="pColor">color</string>
+    <string name="bio1">Desarrollado por:</string>
+    <string name="bio2">Marina Mansueto (@mari709)</string>
+    <string name="bio3">Desarrollo de Aplicaciones Móviles\nCoursera - Enero 2017</string>
+    <string name="acerca_de">Acerca de</string>
+</resources>

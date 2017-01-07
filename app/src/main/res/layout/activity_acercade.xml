@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_acercade"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    tools:context="mari709.mapasbsas.Acercade">
+
+    <TextView
+        android:layout_margin="@dimen/activity_horizontal_margin"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="@string/bio1"
+        android:textSize="@dimen/title"
+        android:textStyle="bold"
+        android:gravity="center_vertical"/>
+
+    <TextView
+        android:layout_margin="@dimen/activity_horizontal_margin"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="@string/bio2"
+        android:textSize="@dimen/subtitulo"
+        android:textStyle="italic"
+        android:background="@color/colorBlanco"
+        android:gravity="center_vertical"/>
+
+    <TextView
+        android:layout_margin="@dimen/activity_horizontal_margin"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="@string/bio3"
+        android:gravity="end"/>
+</LinearLayout>
